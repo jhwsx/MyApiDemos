@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    }
+]

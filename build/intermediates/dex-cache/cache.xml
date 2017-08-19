@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\wangzhichao_demo\ApiDemos1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\wangzhichao_demo\ApiDemos1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_96b6e930e207eb255a90e6749e8723018c368af8.jar" />
+    </item>
+    <item
+        jar="D:\wangzhichao_demo\ApiDemos1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\wangzhichao_demo\ApiDemos1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_30fdf6de56b804a8ab13fbf57897f1ef09259ca5.jar" />
+    </item>
+    <item
+        jar="C:\Users\adups\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\wangzhichao_demo\ApiDemos1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_8a4ace640702a0e299d88303533aa0ae8280b691.jar" />
+    </item>
+
+</items>

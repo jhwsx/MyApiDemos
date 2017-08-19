@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\explode.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\explode.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\move_image.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\move_image.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadein_together.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\changebounds_fadein_together.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\explode_move_together.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\explode_move_together.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\transitions_mgr.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\transitions_mgr.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadeout_sequential.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\changebounds_fadeout_sequential.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\changebounds.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\transition\\activity_transition_mgr.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\transition\\activity_transition_mgr.xml"
+    }
+]

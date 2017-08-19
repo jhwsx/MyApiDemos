@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp-v13\\resources_smallest_width_row.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\layout-sw480dp\\resources_smallest_width_row.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp-v13\\resources_smallest_width_inner.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\layout-sw480dp\\resources_smallest_width_inner.xml"
+    }
+]

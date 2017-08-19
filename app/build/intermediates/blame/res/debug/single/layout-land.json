@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\grid_layout_2.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\layout-land\\grid_layout_2.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_arguments.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\layout-land\\fragment_arguments.xml"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_layout.xml",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\layout-land\\fragment_layout.xml"
+    }
+]

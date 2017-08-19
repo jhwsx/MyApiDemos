@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\values-v17\\values-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\values-v17\\bools.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 48,
+                        "endOffset": 790
+                    }
+                }
+            }
+        ]
+    }
+]

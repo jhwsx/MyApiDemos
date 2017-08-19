@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ball.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\ball.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\woot.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\woot.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logonodpi120.png",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\logonodpi120.png"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\block.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\block.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\jellies.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\jellies.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\frantic.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\frantic.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pencil.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\pencil.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logonodpi160.png",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\logonodpi160.png"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\scissors.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\scissors.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logonodpi240.png",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\logonodpi240.png"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\mug.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\mug.jpg"
+    },
+    {
+        "merged": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ducky.jpg",
+        "source": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\drawable-nodpi\\ducky.jpg"
+    }
+]

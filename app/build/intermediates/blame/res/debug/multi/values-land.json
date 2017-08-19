@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\wangzhichao_demo\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\wangzhichao_demo\\ApiDemos1\\app\\src\\main\\res\\values-land\\integers.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 837,
+                        "endColumn": 50,
+                        "endOffset": 885
+                    }
+                }
+            }
+        ]
+    }
+]
