@@ -147,7 +147,7 @@ public class Xfermodes extends GraphicsActivity {
                 paint.setShader(mBG);
                 canvas.drawRect(x, y, x + W, y + H, paint);
 
-                // draw the src/dst example into our offscreen bitmap offscreen 画面以外的
+                // draw the src/dst example into our offscreen bitmap offscreen 把要绘制的内容单独绘制在缓冲层
                 int sc = canvas.saveLayer(x, y, x + W, y + H, null,
                         Canvas.MATRIX_SAVE_FLAG |
                                 Canvas.CLIP_SAVE_FLAG |
